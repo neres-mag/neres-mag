@@ -1,4 +1,4 @@
-### Hallo ich bin Magnus
+### Hello I'm Magnus
 
 <!--
 **neres-mag/neres-mag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
